@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/leon chang - coffee shop jam.mp3-4d99421cfa5733a1a3e486c87f96f2cb.mp3str"
+
+[deps]
+
+source_file="res://leon chang - coffee shop jam.mp3"
+dest_files=[ "res://.import/leon chang - coffee shop jam.mp3-4d99421cfa5733a1a3e486c87f96f2cb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

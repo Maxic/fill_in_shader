@@ -15,4 +15,4 @@ func _ready():
 func _physics_process(delta):
 	var mouse_pos = get_local_mouse_position()
 
-	$Sprite.position = $Sprite.position.linear_interpolate(mouse_pos, delta * FOLLOW_SPEED)
+	$boi.position = $boi.position.linear_interpolate(mouse_pos, delta * FOLLOW_SPEED)
